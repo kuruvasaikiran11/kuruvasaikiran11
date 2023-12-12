@@ -6,9 +6,11 @@
 
 - **Java**: Proficient in Java programming, I'm adept at building robust, scalable applications using this versatile language.
 
-- **JavaScript and ReactJS**: I have hands-on experience in JavaScript and ReactJS, enabling me to develop interactive and dynamic web applications.
+- **JavaScript, ReactJS and NodeJS**: I have hands-on experience in JavaScript, ReactJS and NodeJS, enabling me to develop interactive and dynamic web applications.
 
 - **HTML and CSS**: With a keen eye for design and user experience, I can create visually appealing and responsive web interfaces.
+
+- **Database Management** : Proficient in **MongoDB** for scalable NoSQL solutions and **MySQL** for designing efficient relational databases. I bring a comprehensive approach to database management, ensuring optimal performance and data integrity across varied application architectures.
 
 - **Linux**: Having worked extensively with Linux, I am well-versed in system administration and can seamlessly navigate the Linux environment.
 
